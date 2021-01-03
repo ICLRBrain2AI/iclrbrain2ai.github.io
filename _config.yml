@@ -1,1 +1,59 @@
-theme: jekyll-theme-cayman
+markdown: kramdown
+#theme: jekyll-theme-cayman
+#remote_theme: daviddarnes/alembic
+#remote_theme: BlackrockDigital/startbootstrap-agency
+remote_theme: chrisrhymes/bulma-clean-theme
+url: "context-composition.github.io" 
+title: Context and Compositionality in Biological and Artificial Neural Systems 
+description: NeurIPS 2019 Workshop
+permalink: pretty
+show_sidebar: true
+#show_sidebar: false
+menubar: navigation
+hide_footer: true
+
+exclude:
+- README.md
+- CODE_OF_CONDUCT.md
+- CONTRIBUTING.md
+- screenshot.png
+- LICENSE
+- CNAME
+- Gemfile
+- Gemfile.lock
+- alembic-jekyll-theme.gemspec
+- .jekyll-cache
+
+# alembic config
+# Installed Gems
+#plugins:
+#- jekyll-sitemap
+#- jekyll-mentions
+#- jekyll-paginate
+#- jekyll-seo-tag
+#- jekyll-redirect-from
+#- jekyll-default-layout
+#- jekyll-feed
+#- jekyll-commonmark
+#- jekyll-include-cache
+#- jemoji
+
+#navigation_header:
+#- title: Home
+#  url: /
+#- title: Schedule
+#  url: /#schedule
+#- title: Speakers
+#  url: /#speakers
+#- title: Categories
+#  url: /categories/
+#- title: Search
+#  url: /search/
+#- title: Fork Alembic
+#  url: https://github.com/daviddarnes/alembic
+
+#show_sidebar: false
+#menubar: menu
+#tabs: menu
+#include: ['_2016_pages', '_2017_pages']
+#logo: "../css/2016_style/img/icon-large.png"
