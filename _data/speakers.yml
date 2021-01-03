@@ -1,0 +1,86 @@
+title: Invited Speakers
+id: speakers
+items:
+  - name: Yoshua Bengio
+    url: https://mila.quebec/en/yoshua-bengio/
+    affiliation: MILA - University of Montreal
+    picture: img/bengio.jpg
+    bio: >
+      Yoshua Bengio is recognized as one of the world's artificial intelligence leaders and a pioneer of deep learning.
+      Professor since 1993 at the Université de Montréal, he received the A.M. Turing Award 2018, considered like the Nobel prize for computing, with Geoff Hinton and Yann LeCun.
+      Holder of the Canada Research Chair in Statistical Learning Algorithms, he is also the founder and scientific director of Mila, the Quebec Institute of AI--the world's biggest university-based research group in deep learning.
+      In 2019, he earned the prestigious Killam Prize from the Canada Council for the Arts.
+      Concerned about the social impact of AI, he actively contributed to the Montreal Declaration for the Responsible Development of Artificial Intelligence.
+  - name: Gina Kuperberg
+    url: https://projects.iq.harvard.edu/kuperberglab/people/gina-r-kuperberg
+    affiliation: Tufts University and Massachusetts General Hospital
+    picture: img/kuperberg.jpg
+    bio: >
+      Thesss example description text goes here and can be multiple lines.
+      For example, such as this.
+  - name: Tom Mitchell
+    url: http://www.cs.cmu.edu/~tom/
+    affiliation: Carnegie Mellon University
+    picture: img/mitchell.jpg
+    bio: >
+      Tom M. Mitchell is the Founders University Professor at Carnegie Mellon University, where he founded the world's first Machine Learning Department.
+      His research involves machine learning approaches to natural language understanding, and uses brain imaging to study
+      how the human brain understands language.  He believes conversational machine learning will be the most significant
+      new thrust in machine learning over the coming decade.  Mitchell is a member of the U.S. National Academy of Engineering,
+      a member of the American Academy of Arts and Sciences, and a Fellow and Past President of the Association for the Advancement of Artificial Intelligence (AAAI).
+      He is interested in societal impacts of computer science, recently co-chaired a U.S. National Academies study on
+      “Information Technology, Automation, and the Workforce,” and has recently testified to several Congressional
+      forums on the impacts of AI on society.
+  - name: Evelina Fedorenko
+    url: https://evlab.mit.edu
+    affiliation: MIT
+    picture: img/fedorenko.jpg
+    bio: >
+      Ev Fedorenko is a cognitive neuroscientist who specializes in the study of the human language system.
+      She received her Bachelor’s degree in Psychology and Linguistics from Harvard University in 2002.
+      She then proceeded to pursue graduate studies in cognitive science and neuroscience at MIT.
+      After receiving her Ph.D. in 2007, she was awarded a K99R00 career development award from NICHD
+      and stayed on as a postdoctoral researcher and then a research scientist at MIT.
+      In 2014, she joined the faculty at HMS/MGH, and in 2019 she moved back to MIT joining the faculty
+      in the Brain and Cognitive Sciences Department and the McGovern Institute for Brain Research.
+      Fedorenko aims to understand the computations we perform and the representations we build during
+      language processing, and to provide a detailed characterization of the brain regions underlying
+      these computations and representations. She uses an array of methods, including fMRI, ERPs, MEG,
+      intracranial recordings and stimulation, and tools from Natural Language Processing, and works
+      with diverse populations, including healthy adults and children, as well as individuals with
+      developmental and acquired brain disorders.
+  - name: Gary Marcus
+    url: http://garymarcus.com
+    affiliation: New York University and Robust.AI
+    picture: img/marcus.jpg
+    bio: >
+      Gary Marcus is a scientist, best-selling author, and entrepreneur. He is Founder and CEO of Robust.AI, 
+      and was Founder and CEO of Geometric Intelligence, a machine learning company acquired by Uber in 2016. 
+      His work on infant rule learning and children's overregularizations have been central in debates about 
+      computational models of human cognition for nearly three decades. 
+      He is also the author of five books, including The Algebraic Mind, Kluge, The Birth of the Mind, and 
+      The New York Times best seller Guitar Zero, as well as his latest, co-authored with Ernest Davis, 
+      Rebooting AI: Building Machines We Can Trust.  And you can catch him again on December 23 
+      at his upcoming debate with Yoshua Bengio. 
+      Today is the world debut of his new benchmark.
+  - name: Paul Smolensky
+    url: https://www.microsoft.com/en-us/research/people/psmo/
+    affiliation: Johns Hopkins University and Microsoft Research
+    picture: img/smolensky.jpg
+    bio: >
+      Thesss example description text goes here and can be multiple lines.
+      For example, such as this.
+  - name: Kenton Lee
+    url: https://kentonl.com
+    affiliation: Google
+    picture: img/lee.jpg
+    bio: >
+      Thesss example description text goes here and can be multiple lines.
+      For example, such as this.
+  - name: Jacob Andreas
+    url: http://web.mit.edu/jda/www
+    affiliation: Massachusetts Institute of Technology
+    picture: img/jacobandreas.jpg
+    bio: >
+      Thesss example description text goes here and can be multiple lines.
+      For example, such as this.
