@@ -2,7 +2,7 @@
 layout: page
 title: How Can Findings About The Brain Improve AI Systems?
 hide_footer: true
-hero_image: img/vancouver_small.jpg
+hero_image: img/vienna.jpg
 ---
 
 ## How Can Findings About The Brain Improve AI Systems?
