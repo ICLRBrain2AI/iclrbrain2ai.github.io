@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Context and Compositionality in Biological and Artificial Neural Systems
+title: How Can Findings About The Brain Improve AI Systems?
 hide_footer: true
 hero_image: img/vancouver_small.jpg
 ---
@@ -22,10 +22,10 @@ However, inspiration from neuroscience has benefited AI in the past: dopamine re
 |---
 | Name | Date
 |:------ |:------
-| Paper Submission Deadline | ~~March 10th, 2021~~
-| Final Decisions | ~~March 24th, 2021~~
-| Camera Ready Deadline | ~April 16th, 2021
-| Workshop Date | ~~May 8th, 2021~~
+| Paper Submission Deadline | March 10th, 2021
+| Final Decisions | March 24th, 2021
+| Camera Ready Deadline | April 16th, 2021
+| Workshop Date | May 8th, 2021
 
 
 ## Schedule
@@ -52,12 +52,14 @@ Taking place virtually, Vienna Time (GMT+1)
 |06:15 PM | Closing Remarks
 |---
 
+{% comment %} 
 
 {% include people.html name="speakers" %}
 
 
 {% include people.html name="organizers" %}
 
+{% endcomment %} 
 
 ## Call for Papers
 
