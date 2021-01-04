@@ -9,9 +9,10 @@ hero_image: img/vienna.jpg
 [ICLR 2021](https://iclr.cc/Conferences/2021/) Workshop, Taking place virtually
 ##### May 8, 2021
 
+{% comment %} 
 ## Google Group
 [https://groups.google.com/d/forum/context-comp](https://groups.google.com/d/forum/context-comp)
-
+{% endcomment %} 
 
 ## About
 The brain comprises billions of neurons organized into an intricate network of highly specialized functional areas. This biological cognitive system can efficiently process vast amounts of multi-modal data to perceive and react to its ever-changing environment. Unlike current AI systems, it does not struggle with domain adaptation, few-shot learning, or common-sense reasoning. However, it also differs from artificial neural networks in many ways. For instance, there is evidence that the brain sparsely encodes information (e.g. the famous `Jennifer Aniston' neuron [1]). Deep neural networks, on the other hand, are dense and redundant. While learning is reward- and feedback-based in both biological and artificial networks, it is not clear that the brain is implementing anything analogous to backpropagation. Further, evidence suggests that biological neurons can replicate recurrence [2] but their ability to do convolution or operations similar to dot-product attention is unclear. 
