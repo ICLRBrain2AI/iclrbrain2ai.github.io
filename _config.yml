@@ -3,8 +3,8 @@ markdown: kramdown
 #remote_theme: daviddarnes/alembic
 #remote_theme: BlackrockDigital/startbootstrap-agency
 remote_theme: chrisrhymes/bulma-clean-theme
-url: "iclrbrain2ai.github.io" 
-title: How Can Findings About The Brain Improve AI Systems? 
+url: "iclrbrain2ai.github.io/" 
+title: How Can Findings About The Brain Improve AI Systems?
 description: ICLR 2021 Workshop
 permalink: pretty
 show_sidebar: true
