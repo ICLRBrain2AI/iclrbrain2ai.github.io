@@ -1,86 +1,44 @@
-title: Invited Speakers
+title: Invited Speakers and Panelists
 id: speakers
 items:
-  - name: Yoshua Bengio
-    url: https://mila.quebec/en/yoshua-bengio/
-    affiliation: MILA - University of Montreal
-    picture: img/bengio.jpg
+  - name: Anima Anandkumar
+    url: http://tensorlab.cms.caltech.edu/
+    affiliation: California Institute of Technology
+    picture: img/anima.jpg
     bio: >
-      Yoshua Bengio is recognized as one of the world's artificial intelligence leaders and a pioneer of deep learning.
-      Professor since 1993 at the Université de Montréal, he received the A.M. Turing Award 2018, considered like the Nobel prize for computing, with Geoff Hinton and Yann LeCun.
-      Holder of the Canada Research Chair in Statistical Learning Algorithms, he is also the founder and scientific director of Mila, the Quebec Institute of AI--the world's biggest university-based research group in deep learning.
-      In 2019, he earned the prestigious Killam Prize from the Canada Council for the Arts.
-      Concerned about the social impact of AI, he actively contributed to the Montreal Declaration for the Responsible Development of Artificial Intelligence.
-  - name: Gina Kuperberg
-    url: https://projects.iq.harvard.edu/kuperberglab/people/gina-r-kuperberg
-    affiliation: Tufts University and Massachusetts General Hospital
-    picture: img/kuperberg.jpg
+      Anima Anandkumar holds dual positions in academia and industry. She is a Bren professor at Caltech CMS department and a director of machine learning research at NVIDIA. At NVIDIA, she is leading the research group that develops next-generation AI algorithms. She is recipient of several awards such as the Alfred. P. Sloan Fellowship, NSF Career Award, Faculty fellowships from Microsoft, Google and Adobe, and Young Investigator Awards from the Army research office and Air Force office of sponsored research. Anima received her PhD from Cornell University in 2009 and was a postdoctoral researcher at MIT from 2009 to 2010, visiting researcher at Microsoft Research New England in 2012 and 2014, assistant professor at U.C. Irvine between 2010 and 2016, associate professor at U.C. Irvine between 2016 and 2017, and principal scientist at Amazon Web Services between 2016 and 2018.
+ 
+  - name: David Cox
+    url: http://www.coxlab.org/
+    affiliation: Harvard University
+    picture: img/cox.jpg
     bio: >
-      Thesss example description text goes here and can be multiple lines.
-      For example, such as this.
-  - name: Tom Mitchell
-    url: http://www.cs.cmu.edu/~tom/
-    affiliation: Carnegie Mellon University
-    picture: img/mitchell.jpg
+      David Cox is an Assistant Professor of Molecular and Cellular Biology and of Computer Science, and is a member of the Center for Brain Science at Harvard University. He completed his Ph.D. in the Department of Brain and Cognitive Sciences at MIT with a specialization in computational neuroscience. Prior to joining MCB/CBS, he was a Junior Fellow at the Rowland Institute at Harvard, a multidisciplinary institute focused on high-risk, high-reward scientific research at the boundaries of traditional fields. His laboratory seeks to understand the computational underpinnings of high-level visual processing through concerted efforts in both reverse- and forward-engineering. To this end, his group employs a wide range of experimental techniques to probe natural systems, while at the same time actively developing practical computer vision systems based on what is learned about the brain.
+
+  - name: Kenji Doya
+    url: https://groups.oist.jp/ncu/kenji-doya
+    affiliation: Okinawa Institute of Science and Technology Graduate University
+    picture: img/kenji.jpg
     bio: >
-      Tom M. Mitchell is the Founders University Professor at Carnegie Mellon University, where he founded the world's first Machine Learning Department.
-      His research involves machine learning approaches to natural language understanding, and uses brain imaging to study
-      how the human brain understands language.  He believes conversational machine learning will be the most significant
-      new thrust in machine learning over the coming decade.  Mitchell is a member of the U.S. National Academy of Engineering,
-      a member of the American Academy of Arts and Sciences, and a Fellow and Past President of the Association for the Advancement of Artificial Intelligence (AAAI).
-      He is interested in societal impacts of computer science, recently co-chaired a U.S. National Academies study on
-      “Information Technology, Automation, and the Workforce,” and has recently testified to several Congressional
-      forums on the impacts of AI on society.
-  - name: Evelina Fedorenko
-    url: https://evlab.mit.edu
-    affiliation: MIT
-    picture: img/fedorenko.jpg
+Kenji Doya is a Professor at Neural Computation Unit, Okinawa Institute of Science and Technology Graduate University. He received his BS in 1984, MS in 1986, and Ph.D. in 1991 at the U. Tokyo. He joined the Advanced Telecommunications Research International (ATR) in 1994 and became the head of Computational Neurobiology Department, ATR Computational Neuroscience Laboratories in 2003. In 2004, he was appointed as the Principal Investigator of Neural Computation Unit, Okinawa Institute of Science and Technology (OIST) and started Okinawa Computational Neuroscience Course (OCNC) as the chief organizer. He currently leads the MEXT project “Artificial Intelligence and Brain Science”. He is interested in understanding the functions of basal ganglia and the cortical circuit based on the theory of reinforcement learning and Bayesian inference.
+
+  - name: Alona Fyshe
+    url: https://webdocs.cs.ualberta.ca/~alona/
+    affiliation: University of Alberta
+    picture: img/fyshe.jpg
     bio: >
-      Ev Fedorenko is a cognitive neuroscientist who specializes in the study of the human language system.
-      She received her Bachelor’s degree in Psychology and Linguistics from Harvard University in 2002.
-      She then proceeded to pursue graduate studies in cognitive science and neuroscience at MIT.
-      After receiving her Ph.D. in 2007, she was awarded a K99R00 career development award from NICHD
-      and stayed on as a postdoctoral researcher and then a research scientist at MIT.
-      In 2014, she joined the faculty at HMS/MGH, and in 2019 she moved back to MIT joining the faculty
-      in the Brain and Cognitive Sciences Department and the McGovern Institute for Brain Research.
-      Fedorenko aims to understand the computations we perform and the representations we build during
-      language processing, and to provide a detailed characterization of the brain regions underlying
-      these computations and representations. She uses an array of methods, including fMRI, ERPs, MEG,
-      intracranial recordings and stimulation, and tools from Natural Language Processing, and works
-      with diverse populations, including healthy adults and children, as well as individuals with
-      developmental and acquired brain disorders.
-  - name: Gary Marcus
-    url: http://garymarcus.com
-    affiliation: New York University and Robust.AI
-    picture: img/marcus.jpg
+ Alona Fyshe is an Assistant Professor in the Computing Science and Psychology Departments at the University of Alberta, and a fellow at the Alberta Institute for Machine Learning (amii).  Alona received her BSc and MSc in Computing Science from the University of Alberta, and a PhD in Machine Learning from Carnegie Mellon University.  Alona uses machine learning to analyze brain images collected while people read, which allows her to study how humans represent the meaning they encounter in text, and how they combine words to understand higher-order meaning.  Alona also studies how computers learn to represent meaning when trained on text or images.  Alona has discovered interesting connections between meaning representations in computer models and those in the human brain.  Those connections serve to advance both our understanding of the brain, and the state of the art in machine learning.
+
+  - name: Jack Gallant
+    url: https://gallantlab.org
+    affiliation: University of California, Berkeley
+    picture: img/gallant.jpg
     bio: >
-      Gary Marcus is a scientist, best-selling author, and entrepreneur. He is Founder and CEO of Robust.AI, 
-      and was Founder and CEO of Geometric Intelligence, a machine learning company acquired by Uber in 2016. 
-      His work on infant rule learning and children's overregularizations have been central in debates about 
-      computational models of human cognition for nearly three decades. 
-      He is also the author of five books, including The Algebraic Mind, Kluge, The Birth of the Mind, and 
-      The New York Times best seller Guitar Zero, as well as his latest, co-authored with Ernest Davis, 
-      Rebooting AI: Building Machines We Can Trust.  And you can catch him again on December 23 
-      at his upcoming debate with Yoshua Bengio. 
-      Today is the world debut of his new benchmark.
-  - name: Paul Smolensky
-    url: https://www.microsoft.com/en-us/research/people/psmo/
-    affiliation: Johns Hopkins University and Microsoft Research
-    picture: img/smolensky.jpg
+     Jack Gallant is the Chancellor's Professor and Class of 1940 Endowed Chair in the Department of Psychology at the University of California, Berkeley, as well as the Department of Electrical Engineering and Computer Science. He received his BS from UC Berkeley and PhD from Yale University, and then did post-doctoral work at Caltech and Washington University under David van Essen. Jack's work focuses on using natural stimuli, including natural images, movies, and language, to build computational models of sensory processing. A method for decoding visual stimuli from fMRI responses developed in his lab was recognized as one of Time Magazine's Inventions of the Year in 2011.
+  - name: Kimberly Statchenfeld
+    url: https://neurokim.com/
+    affiliation: DeepMind
+    picture: img/kimstatchenfeld.jpg
     bio: >
-      Thesss example description text goes here and can be multiple lines.
-      For example, such as this.
-  - name: Kenton Lee
-    url: https://kentonl.com
-    affiliation: Google
-    picture: img/lee.jpg
-    bio: >
-      Thesss example description text goes here and can be multiple lines.
-      For example, such as this.
-  - name: Jacob Andreas
-    url: http://web.mit.edu/jda/www
-    affiliation: Massachusetts Institute of Technology
-    picture: img/jacobandreas.jpg
-    bio: >
-      Thesss example description text goes here and can be multiple lines.
-      For example, such as this.
+      Kimberly Statchenfeld is a research scientist on DeepMind's Neuroscience team. Kimberly received her B.S. in Chemical and Biological Engineering and Mathematics from Tufts University and received her Ph.D. in Quantitative and Computational Neuroscience from Princeton University. She focuses on representations to support efficient reinforcement learning and planning and works on learning more about the nature and function of these representations in the brain, and porting this representational capacity over to machines.
+
