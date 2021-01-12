@@ -22,12 +22,12 @@ items:
     bio: >
       Kenji Doya is a Professor at Neural Computation Unit, Okinawa Institute of Science and Technology Graduate University. He received his BS in 1984, MS in 1986, and Ph.D. in 1991 at the U. Tokyo. He joined the Advanced Telecommunications Research International (ATR) in 1994 and became the head of Computational Neurobiology Department, ATR Computational Neuroscience Laboratories in 2003. In 2004, he was appointed as the Principal Investigator of Neural Computation Unit, Okinawa Institute of Science and Technology (OIST) and started Okinawa Computational Neuroscience Course (OCNC) as the chief organizer. He currently leads the MEXT project “Artificial Intelligence and Brain Science”. He is interested in understanding the functions of basal ganglia and the cortical circuit based on the theory of reinforcement learning and Bayesian inference.
 
-  - name: Alona Fyshe
+  - name: Kenji Doya
     url: https://webdocs.cs.ualberta.ca/~alona/
     affiliation: University of Alberta
     picture: img/fyshe.jpg
     bio: >
- Alona Fyshe is an Assistant Professor in the Computing Science and Psychology Departments at the University of Alberta, and a fellow at the Alberta Institute for Machine Learning (amii).  Alona received her BSc and MSc in Computing Science from the University of Alberta, and a PhD in Machine Learning from Carnegie Mellon University.  Alona uses machine learning to analyze brain images collected while people read, which allows her to study how humans represent the meaning they encounter in text, and how they combine words to understand higher-order meaning.  Alona also studies how computers learn to represent meaning when trained on text or images.  Alona has discovered interesting connections between meaning representations in computer models and those in the human brain.  Those connections serve to advance both our understanding of the brain, and the state of the art in machine learning.
+     Alona Fyshe is an Assistant Professor in the Computing Science and Psychology Departments at the University of Alberta, and a fellow at the Alberta Institute for Machine Learning (amii).  Alona received her BSc and MSc in Computing Science from the University of Alberta, and a PhD in Machine Learning from Carnegie Mellon University.  Alona uses machine learning to analyze brain images collected while people read, which allows her to study how humans represent the meaning they encounter in text, and how they combine words to understand higher-order meaning.  Alona also studies how computers learn to represent meaning when trained on text or images.  Alona has discovered interesting connections between meaning representations in computer models and those in the human brain.  Those connections serve to advance both our understanding of the brain, and the state of the art in machine learning.
 
   - name: Jack Gallant
     url: https://gallantlab.org
