@@ -1,6 +1,7 @@
 title: Organizers
 id: organizers
 items:
+
   - name: Javier Turek
     url: http://www.javierturek.com
     affiliation: Intel Labs
@@ -22,27 +23,6 @@ items:
     bio: >
       The example description text goes here and can be multiple lines.
       For example, such as this. 
-  - name: Chris Honey
-    url: http://www.honeylab.org
-    affiliation: Johns Hopkins University
-    picture: img/chrishoney.jpg
-    bio: >
-      The example description text goes here and can be multiple lines.
-      For example, such as this. 
-  - name: Tal Linzen
-    url: http://tallinzen.net
-    affiliation: Johns Hopkins University
-    picture: img/tallinzen.jpg
-    bio: >
-      The example description text goes here and can be multiple lines.
-      For example, such as this. 
-  - name: Emma Strubell
-    url: http://strubell.github.io
-    affiliation: Facebook and Carnegie Mellon University
-    picture: img/emmastrubell.jpg
-    bio: >
-      The example description text goes here and can be multiple lines.
-      For example, such as this. 
   - name: Leila Wehbe
     url: http://www.cs.cmu.edu/~lwehbe/
     affiliation: Carnegie Mellon University
@@ -50,17 +30,21 @@ items:
     bio: >
       The example description text goes here and can be multiple lines.
       For example, such as this. 
-  - name: Kyunghyun Cho
-    url: http://www.kyunghyuncho.me
-    affiliation: Facebook and New York University
-    picture: img/kyunghyuncho.jpg
+  - name: Richard Antonello
+    affiliation: The University of Texas at Austin
+    picture: img/richardantonello.jpg
     bio: >
       The example description text goes here and can be multiple lines.
       For example, such as this. 
-  - name: Alan Yuille
-    url: http://www.cs.jhu.edu/~ayuille/
-    affiliation: Johns Hopkins University
-    picture: img/alanyuille.jpg
+  - name: Shinji Nishimoto
+    affiliation: Center for Information and Neural Networks
+    picture: img/shinjinishimoto.jpg
+    bio: >
+      The example description text goes here and can be multiple lines.
+      For example, such as this. 
+  - name: Mariya Toneva
+    affiliation: Carnegie Mellon University
+    picture: img/mariyatoneva.jpg
     bio: >
       The example description text goes here and can be multiple lines.
       For example, such as this. 
