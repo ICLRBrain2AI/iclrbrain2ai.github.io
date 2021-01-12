@@ -64,7 +64,7 @@ Taking place virtually, Vienna Time (GMT+1)
 
 ## Call for Papers
 
-Submit at: TBA
+Submit at: https://cmt3.research.microsoft.com/BRAIN2AI2021/Submission/Index(https://cmt3.research.microsoft.com/BRAIN2AI2021/Submission/Index)
 
 We will consider the following (non-exhaustive) list of topics for contribution:
 - What areas of AI can most benefit from neuroscientific insight (e.g. commonsense reasoning, symbol grounding, architecture search and learning rules, continual learning, interpretability, few-shot learning)?
