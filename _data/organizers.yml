@@ -57,3 +57,9 @@ items:
     bio: >
       The example description text goes here and can be multiple lines.
       For example, such as this. 
+  - name: Vy Vo
+    affiliation: Intel Labs
+    picture: img/vyvo.jpg
+    bio: >
+      The example description text goes here and can be multiple lines.
+      For example, such as this. 
