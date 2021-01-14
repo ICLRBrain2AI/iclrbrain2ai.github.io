@@ -78,7 +78,7 @@ The workshop itself will be geared towards more dynamic and interactive discussi
 Invited speakers will give live talks but will be asked to devote as much time to audience questions as to the presentation. Accepted abstracts and papers will result in, at minimum, a spotlight talk. Contributed spotlight talks will be pre-recorded to ensure that time traditionally allotted to posters will be used to foster discussion and participant questions from the contributed talks. 
 
 All presenters, whether invited or contributed, will be given live virtual "coffee break" rooms during all breaks in the conference schedule to engage in small group discussions with participants.
-Discussions around talks will be organized in live virtual ``breakout'' rooms with similar topic and themes so that workshop attendees and presenters can get the chance to interact with each other in a less formal, discussion-centric setting.
+Discussions around talks will be organized in live virtual "breakout" rooms with similar topic and themes so that workshop attendees and presenters can get the chance to interact with each other in a less formal, discussion-centric setting.
 We intend to encourage spotlight talk applicants to fully leverage the didactic benefits of the digital medium by including elements of animation or interactivity into their presentations. The themes for the breakout rooms will be changed for
 each break to give speakers, panelists and participants a chance to focus on different aspects of their work and to interact with different groups.
 
