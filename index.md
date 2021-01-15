@@ -18,14 +18,22 @@ hero_image: img/vienna.jpg
 The brain comprises billions of neurons organized into an intricate network of highly specialized functional areas. This biological cognitive system can efficiently process vast amounts of multi-modal data to perceive and react to its ever-changing environment. Unlike current AI systems, it does not struggle with domain adaptation, few-shot learning, or common-sense reasoning. However, it also differs from artificial neural networks in many ways. For instance, there is evidence that the brain sparsely encodes information (e.g. the famous `Jennifer Aniston' neuron [1]). Deep neural networks, on the other hand, are dense and redundant. While learning is reward- and feedback-based in both biological and artificial networks, it is not clear that the brain is implementing anything analogous to backpropagation. Further, evidence suggests that biological neurons can replicate recurrence [2] but their ability to do convolution or operations similar to dot-product attention is unclear. 
 However, inspiration from neuroscience has benefited AI in the past: modern convolutional networks mimic the deep, nested information flow in visual cortex [3], and hippocampal replay of previous experiences has brought about experience replay in reinforcement learning [4]. Recent work at the intersection of neuroscience and AI has made progress in directly integrating neuroscientific data with AI systems and has led to learned representations that are more robust to label corruptions [5,6], allow for better generalization in some language tasks [7,8], and provide new ways to interpret [7,9,10,11,12,13] and evaluate [14,15,16,17,18,19,20,21] what domain-relevant information is learned by deep neural networks. In this workshop, we aim to examine the extent to which insights about the brain can lead to better AI. 
 
+Specifically, this workshop aims to address some of the following fundamental questions:
+- What areas of AI can most benefit from neuroscientific insight (e.g. commonsense reasoning, symbol grounding, architecture search and learning rules, continual learning, interpretability, few-shot learning)?
+- What are the current bottlenecks in integrating neuroscientific data with AI systems (e.g. limited amount of data, amount of noise, mismatch in experimental tasks)?
+- Which granularities of neuroscientific data are best suited to integrate with AI systems (e.g. recordings from cells of non-human species, multi-unit recordings from local neuron populations, neuroimaging recordings)?
+- What are the benefits and limits of data-driven approaches that integrate neuroscientific data into the training process of AI systems?
+- How can neuroscientific data benefit AI systems that perform tasks at which humans excel (e.g. natural language processing, vision)?
+
+
 ## Important Dates
 
 |---
 | Name | Date
 |:------ |:------
-| Paper Submission Deadline | March 10th, 2021
-| Final Decisions | March 24th, 2021
-| Camera Ready Deadline | April 16th, 2021
+| Paper Submission Deadline | February 26, 2021 (11:59pm EST)
+| Final Decisions | March 26, 2021 (11:59pm EST)
+| Camera Ready Deadline | April 15, 2021 (11:59pm EST)
 | Workshop Date | May 8th, 2021
 
 
@@ -66,25 +74,23 @@ Taking place virtually, Vienna Time (GMT+1)
 Submit at: [https://cmt3.research.microsoft.com/BRAIN2AI2021/Submission/Index](https://cmt3.research.microsoft.com/BRAIN2AI2021/Submission/Index)
 
 We will consider the following (non-exhaustive) list of topics for contribution:
-- What areas of AI can most benefit from neuroscientific insight (e.g. commonsense reasoning, symbol grounding, architecture search and learning rules, continual learning, interpretability, few-shot learning)?
-- What are the current bottlenecks in integrating neuroscientific data with AI systems (e.g. limited amount of data, amount of noise, mismatch in experimental tasks)?
-- Which granularities of neuroscientific data are best suited to integrate with AI systems (e.g. recordings from cells of non-human species, multi-unit recordings from local neuron populations, neuroimaging recordings)?
-- What are the benefits and limits of data-driven approaches that integrate neuroscientific data into the training process of AI systems?
-- How can neuroscientific data benefit AI systems that perform tasks at which humans excel (e.g. natural language processing, vision)?
+- Data-driven integration of neuroscientific data into the training of AI systems
+- Brain-inspired inductive biases for AI systems
+- Neuroscientific data as an evaluation metric for AI systems
+- Mechanistic insight into cognitive functions (vision, language, decision making, attention, etc.)
+- Limitations of current AI systems in tasks at which humans excel (compositionality, commonsense reasoning, continual learning, few-shot learning, causality, etc.)
+- Cross-modality and cross-species comparisons of neuroscientific data with respect to benefits to AI
+- Datasets that can facilitate the transfer of neuroscientific insight to AI
 
 **Formatting Instructions:**  All submissions must be in PDF format. Submissions are limited to four content pages, including all figures and tables; additional pages containing only references are allowed. You must format your submission using the [ICLR 2021 LaTeX style files](https://github.com/ICLR/Master-Template/raw/master/archive/iclr2021.zip). Submissions that meaningfully violate the ICLR style (e.g., by decreasing margins or font sizes) or page limits may be rejected without further review. All submissions should be anonymous.
 
-The workshop itself will be geared towards more dynamic and interactive discussion focused on Q&A sessions, with less time devoted to speakers giving one-sided talks to attendees.
-Invited speakers will give live talks but will be asked to devote as much time to audience questions as to the presentation. Accepted abstracts and papers will result in, at minimum, a spotlight talk. Contributed spotlight talks will be pre-recorded to ensure that time traditionally allotted to posters will be used to foster discussion and participant questions from the contributed talks. 
+The review process is double-blind. We also welcome published papers that are within the scope of the workshop (without re-formatting). Already-published papers do not have to be anonymous. They are eligible for the spotlight sessions and will only have a very light review process.
 
-All presenters, whether invited or contributed, will be given live virtual "coffee break" rooms during all breaks in the conference schedule to engage in small group discussions with participants.
-Discussions around talks will be organized in live virtual "breakout" rooms with similar topic and themes so that workshop attendees and presenters can get the chance to interact with each other in a less formal, discussion-centric setting.
-We intend to encourage spotlight talk applicants to fully leverage the didactic benefits of the digital medium by including elements of animation or interactivity into their presentations. The themes for the breakout rooms will be changed for
-each break to give speakers, panelists and participants a chance to focus on different aspects of their work and to interact with different groups.
+**Virtual Format:** The workshop itself will be geared towards more dynamic and interactive discussion focused on Q&A sessions, with less time devoted to speakers giving one-sided talks to attendees. Invited speakers will give live talks but will be asked to devote as much time to audience questions as to the presentation. Accepted abstracts and papers will result in, at minimum, a spotlight talk. Contributed spotlight talks will be pre-recorded to ensure that time traditionally allotted to posters will be used to foster discussion and participant questions from the contributed talks. 
 
-The review process is double-blind. We also welcome published papers that are within the scope of the workshop (without re-formatting). Already-published papers do not have to be anonymous. They are eligible for poster sessions and will only have a very light review process.
+All presenters, whether invited or contributed, will be given live virtual "coffee break" rooms during all breaks in the conference schedule to engage in small group discussions with participants. Discussions around talks will be organized in live virtual "breakout" rooms with similar topic and themes so that workshop attendees and presenters can get the chance to interact with each other in a less formal, discussion-centric setting. We intend to encourage spotlight talk applicants to fully leverage the didactic benefits of the digital medium by including elements of animation or interactivity into their presentations. The themes for the breakout rooms will be changed for each break to give speakers, panelists and participants a chance to focus on different aspects of their work and to interact with different groups.
 
-Please redirect questions and all future correspondence to [rjantonello@utexas.edu](mailto:rjantonello@utexas.edu).
+Please redirect questions and all future correspondence to [brain2ai.2021@gmail.com](mailto:brain2ai.2021@gmail.com).
 
 
 ## Program Committee
