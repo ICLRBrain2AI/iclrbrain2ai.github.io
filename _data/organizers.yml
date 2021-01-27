@@ -63,3 +63,9 @@ items:
     bio: >
       The example description text goes here and can be multiple lines.
       For example, such as this. 
+  - name: Nicole Beckage
+    affiliation: Intel Labs
+    picture: img/Beckage.jpg
+    bio: >
+      The example description text goes here and can be multiple lines.
+      For example, such as this. 
