@@ -22,6 +22,11 @@ items:
     bio: >
       Kenji Doya is a Professor at Neural Computation Unit, Okinawa Institute of Science and Technology Graduate University. He received his BS in 1984, MS in 1986, and Ph.D. in 1991 at the U. Tokyo. He joined the Advanced Telecommunications Research International (ATR) in 1994 and became the head of Computational Neurobiology Department, ATR Computational Neuroscience Laboratories in 2003. In 2004, he was appointed as the Principal Investigator of Neural Computation Unit, Okinawa Institute of Science and Technology (OIST) and started Okinawa Computational Neuroscience Course (OCNC) as the chief organizer. He currently leads the MEXT project “Artificial Intelligence and Brain Science”. He is interested in understanding the functions of basal ganglia and the cortical circuit based on the theory of reinforcement learning and Bayesian inference.
 
+  - name: Allyson Ettinger
+    url: https://neurokim.com/
+    affiliation: DeepMind
+    picture: img/Allyson_Ettinger.jpg
+
   - name: Alona Fyshe
     url: https://webdocs.cs.ualberta.ca/~alona/
     affiliation: University of Alberta
@@ -35,10 +40,20 @@ items:
     picture: img/gallant.jpg
     bio: >
      Jack Gallant is the Chancellor's Professor and Class of 1940 Endowed Chair in the Department of Psychology at the University of California, Berkeley, as well as the Department of Electrical Engineering and Computer Science. He received his BS from UC Berkeley and PhD from Yale University, and then did post-doctoral work at Caltech and Washington University under David van Essen. Jack's work focuses on using natural stimuli, including natural images, movies, and language, to build computational models of sensory processing. A method for decoding visual stimuli from fMRI responses developed in his lab was recognized as one of Time Magazine's Inventions of the Year in 2011.
-  - name: Kimberly Statchenfeld
-    url: https://neurokim.com/
-    affiliation: DeepMind
-    picture: img/kimstatchenfeld.jpg
-    bio: >
-      Kimberly Statchenfeld is a research scientist on DeepMind's Neuroscience team. Kimberly received her B.S. in Chemical and Biological Engineering and Mathematics from Tufts University and received her Ph.D. in Quantitative and Computational Neuroscience from Princeton University. She focuses on representations to support efficient reinforcement learning and planning and works on learning more about the nature and function of these representations in the brain, and porting this representational capacity over to machines.
 
+  - name: Andrea Martin
+    url: https://www.mpi.nl/people/martin-andrea-e
+    affiliation: Max Planck Institute
+    picture: img/Andrea_Martin.jpg
+
+
+  - name: Allyson Ettinger
+    url: https://linguistics.uchicago.edu/allyson-ettinger
+    affiliation: University of Chicago
+    picture: img/Allyson_Ettinger.jpg
+
+
+  - name: Josh Tenenbaum
+    url: https://www.csail.mit.edu/person/joshua-tenenbaum
+    affiliation: MIT
+    picture: img/tenenbaum.jpg
