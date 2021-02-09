@@ -86,7 +86,7 @@ We will consider the following (non-exhaustive) list of topics for contribution:
 
 The accepted papers will be made publicly available as non-archival reports, allowing future submissions to archival conferences or journals.
 
-The review process is double-blind. We also welcome published papers that are within the scope of the workshop (without re-formatting). Already-published papers do not have to be anonymous. They are eligible for the spotlight sessions and will only have a very light review process.
+The review process is double-blind. We also welcome published papers that are within the scope of the workshop (without re-formatting). Already-published papers do not have to be anonymous. They are eligible for the spotlight sessions and will only have a very light review process. Note that preprints that have not yet been accepted for publication at a peer-reviewed venue are not considered as published work and need to be reformatted according to our instructions. 
 
 **Virtual Format:** The workshop itself will be geared towards more dynamic and interactive discussion focused on Q&A sessions, with less time devoted to speakers giving one-sided talks to attendees. Invited speakers will give live talks but will be asked to devote as much time to audience questions as to the presentation. Accepted abstracts and papers will result in, at minimum, a spotlight talk. Contributed spotlight talks will be pre-recorded to ensure that time traditionally allotted to posters will be used to foster discussion and participant questions from the contributed talks. 
 
