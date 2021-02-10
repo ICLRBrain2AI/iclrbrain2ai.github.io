@@ -22,10 +22,10 @@ items:
     bio: >
       Kenji Doya is a Professor at Neural Computation Unit, Okinawa Institute of Science and Technology Graduate University. He received his BS in 1984, MS in 1986, and Ph.D. in 1991 at the U. Tokyo. He joined the Advanced Telecommunications Research International (ATR) in 1994 and became the head of Computational Neurobiology Department, ATR Computational Neuroscience Laboratories in 2003. In 2004, he was appointed as the Principal Investigator of Neural Computation Unit, Okinawa Institute of Science and Technology (OIST) and started Okinawa Computational Neuroscience Course (OCNC) as the chief organizer. He currently leads the MEXT project “Artificial Intelligence and Brain Science”. He is interested in understanding the functions of basal ganglia and the cortical circuit based on the theory of reinforcement learning and Bayesian inference.
 
-  - name: Kimberly Stachenfeld
-    url: https://neurokim.com/
-    affiliation: DeepMind
-    picture: img/kimstatchenfeld.jpg
+  - name: Allyson Ettinger
+    url: https://linguistics.uchicago.edu/allyson-ettinger
+    affiliation: University of Chicago
+    picture: img/Allyson_Ettinger.jpg
 
   - name: Alona Fyshe
     url: https://webdocs.cs.ualberta.ca/~alona/
@@ -45,13 +45,11 @@ items:
     url: https://www.mpi.nl/people/martin-andrea-e
     affiliation: Max Planck Institute
     picture: img/Andrea_Martin.jpg
-
-
-  - name: Allyson Ettinger
-    url: https://linguistics.uchicago.edu/allyson-ettinger
-    affiliation: University of Chicago
-    picture: img/Allyson_Ettinger.jpg
-
+    
+  - name: Kimberly Stachenfeld
+    url: https://neurokim.com/
+    affiliation: DeepMind
+    picture: img/kimstatchenfeld.jpg
 
   - name: Josh Tenenbaum
     url: https://www.csail.mit.edu/person/joshua-tenenbaum
