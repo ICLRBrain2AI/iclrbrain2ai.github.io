@@ -7,7 +7,7 @@ hero_image: img/vienna.jpg
 
 ## How Can Findings About The Brain Improve AI Systems?
 [ICLR 2021](https://iclr.cc/Conferences/2021/) Workshop, Taking place virtually
-##### May 8, 2021
+##### ~~May 8, 2021~~ May 7, 2021
 
 {% comment %} 
 ## Google Group
@@ -34,12 +34,12 @@ Specifically, this workshop aims to address some of the following fundamental qu
 | Paper Submission Deadline | February 26, 2021 (11:59pm EST)
 | Final Decisions | March 26, 2021 (11:59pm EST)
 | Camera Ready Deadline | April 15, 2021 (11:59pm EST)
-| Workshop Date | May 8th, 2021
+| Workshop Date | ~~May 8, 2021~~ May 7, 2021
 
 
 ## Schedule
 
-Date: Saturday May 8th, 2021
+Date: ~~Saturday May 8, 2021~~ Friday May 7, 2021
 
 Taking place virtually, Vienna Time (GMT+1)
 
@@ -97,11 +97,21 @@ Please redirect questions and all future correspondence to [brain2ai.2021@gmail.
 
 ## Program Committee
 
-TBA
-
+Janice Chen
+James DiCarlo
+Kenji Doya
+Stefan L Frank
+Alona Fyshe
+Tim Kietzmann
+Jean-Rémi King
+Liberty Hamilton
+Chris Honey
+Anna Ivanova
+Sharmishta Jat
+Niru Maheswaranthan
+and all Organizing Committee Members
 
 ## References
-
 
 1. Quiroga, R. Quian, et al. "Invariant visual representation by single neurons in the human brain." Nature 435.7045 (2005): 1102-1107.
 2. Kietzmann, Tim C., et al. "Recurrence is required to capture the representational dynamics of the human visual system." Proceedings of the National Academy of Sciences 116.43 (2019): 21854-21863.
