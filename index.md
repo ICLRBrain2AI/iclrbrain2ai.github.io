@@ -109,7 +109,7 @@ Please redirect questions and all future correspondence to [brain2ai.2021@gmail.
 * Anna Ivanova
 * Sharmishta Jat
 * Niru Maheswaranthan
-and all Organizing Committee Members
+* and all Organizing Committee Members
 
 ## References
 
