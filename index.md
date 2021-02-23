@@ -97,18 +97,18 @@ Please redirect questions and all future correspondence to [brain2ai.2021@gmail.
 
 ## Program Committee
 
-Janice Chen
-James DiCarlo
-Kenji Doya
-Stefan L Frank
-Alona Fyshe
-Tim Kietzmann
-Jean-Rémi King
-Liberty Hamilton
-Chris Honey
-Anna Ivanova
-Sharmishta Jat
-Niru Maheswaranthan
+* Janice Chen
+* James DiCarlo
+* Kenji Doya
+* Stefan L Frank
+* Alona Fyshe
+* Tim Kietzmann
+* Jean-Rémi King
+* Liberty Hamilton
+* Chris Honey
+* Anna Ivanova
+* Sharmishta Jat
+* Niru Maheswaranthan
 and all Organizing Committee Members
 
 ## References
