@@ -31,7 +31,7 @@ Specifically, this workshop aims to address some of the following fundamental qu
 |---
 | Name | Date
 |:------ |:------
-| Paper Submission Deadline | ~~February 26, 2021~~ ~~March 5th, 2021 (11:59pm EST)~~ <span style="color:red">March 9th, 2021 (3pm EST) </span>
+| Paper Submission Deadline | March 9th, 2021 (3pm EST) 
 | Final Decisions | March 26, 2021 (11:59pm EST)
 | Camera Ready Deadline | April 15, 2021 (11:59pm EST)
 | Workshop Date | ~~May 8, 2021~~ May 7, 2021
