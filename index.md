@@ -47,7 +47,7 @@ Taking place virtually, Times given are Eastern Standard Time
 | Time | Event
 |:------ |:------
 |09:30 AM | Opening Remarks
-|10:00 AM | Invited Speaker Talk - David Cox
+|10:00 AM | Invited Speaker Talk - Mike Davies
 |11:00 AM | Panel Discussion
 |12:30 AM | Coffee/Lunch Break
 |01:00 PM | Spotlights/Contributed Talks 1
