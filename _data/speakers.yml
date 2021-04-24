@@ -8,12 +8,12 @@ items:
     bio: >
       Anima Anandkumar holds dual positions in academia and industry. She is a Bren professor at Caltech CMS department and a director of machine learning research at NVIDIA. At NVIDIA, she is leading the research group that develops next-generation AI algorithms. She is recipient of several awards such as the Alfred. P. Sloan Fellowship, NSF Career Award, Faculty fellowships from Microsoft, Google and Adobe, and Young Investigator Awards from the Army research office and Air Force office of sponsored research. Anima received her PhD from Cornell University in 2009 and was a postdoctoral researcher at MIT from 2009 to 2010, visiting researcher at Microsoft Research New England in 2012 and 2014, assistant professor at U.C. Irvine between 2010 and 2016, associate professor at U.C. Irvine between 2016 and 2017, and principal scientist at Amazon Web Services between 2016 and 2018.
  
-  - name: David Cox
-    url: http://www.coxlab.org/
-    affiliation: Harvard University
-    picture: img/cox.jpg
-    bio: >
-      David Cox is an Assistant Professor of Molecular and Cellular Biology and of Computer Science, and is a member of the Center for Brain Science at Harvard University. He completed his Ph.D. in the Department of Brain and Cognitive Sciences at MIT with a specialization in computational neuroscience. Prior to joining MCB/CBS, he was a Junior Fellow at the Rowland Institute at Harvard, a multidisciplinary institute focused on high-risk, high-reward scientific research at the boundaries of traditional fields. His laboratory seeks to understand the computational underpinnings of high-level visual processing through concerted efforts in both reverse- and forward-engineering. To this end, his group employs a wide range of experimental techniques to probe natural systems, while at the same time actively developing practical computer vision systems based on what is learned about the brain.
+#   - name: David Cox
+#     url: http://www.coxlab.org/
+#     affiliation: Harvard University
+#     picture: img/cox.jpg
+#     bio: >
+#       David Cox is an Assistant Professor of Molecular and Cellular Biology and of Computer Science, and is a member of the Center for Brain Science at Harvard University. He completed his Ph.D. in the Department of Brain and Cognitive Sciences at MIT with a specialization in computational neuroscience. Prior to joining MCB/CBS, he was a Junior Fellow at the Rowland Institute at Harvard, a multidisciplinary institute focused on high-risk, high-reward scientific research at the boundaries of traditional fields. His laboratory seeks to understand the computational underpinnings of high-level visual processing through concerted efforts in both reverse- and forward-engineering. To this end, his group employs a wide range of experimental techniques to probe natural systems, while at the same time actively developing practical computer vision systems based on what is learned about the brain.
 
   - name: Mike Davies
     url: https://www.turing.ac.uk/people/guest-speakers/mike-davies
