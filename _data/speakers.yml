@@ -39,7 +39,12 @@ items:
     picture: img/gallant.jpg
     bio: >
      Jack Gallant is the Chancellor's Professor and Class of 1940 Endowed Chair in the Department of Psychology at the University of California, Berkeley, as well as the Department of Electrical Engineering and Computer Science. He received his BS from UC Berkeley and PhD from Yale University, and then did post-doctoral work at Caltech and Washington University under David van Essen. Jack's work focuses on using natural stimuli, including natural images, movies, and language, to build computational models of sensory processing. A method for decoding visual stimuli from fMRI responses developed in his lab was recognized as one of Time Magazine's Inventions of the Year in 2011.
-
+  
+  - name: Dmitry Krotov
+    url: https://mitibmwatsonailab.mit.edu/people/dmitry-krotov/
+    affiliation: MIT
+    picture: img/dmitrykrotov.jpg
+    
   - name: Andrea Martin
     url: https://www.mpi.nl/people/martin-andrea-e
     affiliation: Max Planck Institute
