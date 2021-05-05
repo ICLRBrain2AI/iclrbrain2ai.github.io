@@ -93,6 +93,34 @@ All presenters, whether invited or contributed, will be given live virtual "coff
 
 Please redirect questions and all future correspondence to [brain2ai.2021@gmail.com](mailto:brain2ai.2021@gmail.com).
 
+## Accepted Papers
+
+The following papers were accepted to the workshop. Full papers will be released during the workshop and one month later to nonregistered parties. 
+
+- A learning gap between neuroscience and reinforcement learning
+- Brain-inspired Weighted Normalization for CNN Image Classification
+- Cloze Distillation: Improving Neural Language Models with Human Next-Word Predictions
+- Comparing Neural Mechanisms for Shifting Attention in Space and Social Knowledge
+- Comparing visual reasoning in humans and AI
+- Contextual integration in cortical and convolutional neural networks
+- Cortical network responses map onto data‑driven features that capture visual semantics of movie fragments
+- Cross-modal emotion recognition: How similar are patterns between DNNs and human fMRI data?
+- Gaze Perception in Humans and CNN-based Model
+- Improved object recognition using neural networks trained to mimic the brain’s statistical properties
+- Information theoretic characterization of uncertainty distinguishes surprise from accuracy signals in the brain
+- Joint interpretation about neural representations in neural networks and the brain
+- Learning to Predict in Networks with Heterogeneous and Dynamic Synapses
+- Learning-dependent enhancement of persistent activity in neocortex
+- Neuroscience-inspired perception-action in robotics: applying active inference for state estimation, control and self-perception
+- Probing artificial neural networks: Insights from neuroscience
+{% comment %} 
+- Shared Neural Representation-inspired Empathetic Response Generation
+{% endcomment %} 
+- Simulating a Primary Visual Cortex at the Front of CNNs Improves Robustness to Image Perturbations 
+- The neuroscience of spatial navigation and the relationship to artificial intelligence
+- Towards naturalistic speech decoding from brain data
+- Towards robust vision by multi-task learning on monkey visual cortex
+- Training cascaded networks for speeded decisions using a temporal-difference loss
 
 ## Program Committee
 
