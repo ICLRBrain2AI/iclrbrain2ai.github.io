@@ -11,7 +11,7 @@ hero_image: img/vienna.jpg
 
 ## [View the workshop](https://iclr.cc/virtual/2021/workshop/2135)
 
-## [Workshop Information](https://docs.google.com/document/d/12qI9a5XRQxnGbxBTb1a3BIwDT7ayvVkYM0rjLOICeq0/edit?usp=sharing)
+## [Day-of Workshop Guide](https://docs.google.com/document/d/12qI9a5XRQxnGbxBTb1a3BIwDT7ayvVkYM0rjLOICeq0/edit?usp=sharing)
 
 {% comment %} 
 ## Google Group
