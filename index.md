@@ -122,6 +122,10 @@ The following papers were accepted to the workshop. Full papers will be released
 - Towards robust vision by multi-task learning on monkey visual cortex
 - Training cascaded networks for speeded decisions using a temporal-difference loss
 
+## Workshop Poster Session GatherTown Layout
+
+Accepted papers will be presented in a virtual poster session at our workshop's GatherTown, which will be accesible from the workshop's page on the ICLR website on the day of the workshop. An annotated image specifying the layout of the GatherTown is shown below:
+
 ![Workshop Poster Session GatherTown Layout](img/gathertown.png)
 
 ## Program Committee
