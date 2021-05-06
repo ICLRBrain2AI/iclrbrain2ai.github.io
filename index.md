@@ -100,7 +100,7 @@ The following papers were accepted to the workshop. Full papers will be released
 
 |---
 | Poster # | GatherTown Time Slot (EST) | Title
-|:---- |:------- |:------
+|:----- |:--------- |:------
 | 1 | 1PM - 2PM | Brain-inspired Weighted Normalization for CNN Image Classification
 | 2 | 1PM - 2PM | Neuroscience-inspired perception-action in robotics: applying active inference for state estimation, control and self-perception
 | 3 | 1PM - 2PM | A learning gap between neuroscience and reinforcement learning
