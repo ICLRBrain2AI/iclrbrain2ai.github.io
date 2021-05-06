@@ -46,20 +46,20 @@ Date: ~~Saturday May 8, 2021~~ Friday May 7, 2021
 Taking place virtually, Times given are Eastern Standard Time
 
 |---
-| Time (EST) | Event
-|:------ |:------
-|09:30 AM | Opening Remarks 
-|10:00 AM | Invited Speaker Talk - Mike Davies 
-|11:00 AM | Panel Discussion 
-|12:30 AM | Coffee/Lunch Break 
-|01:00 PM | Spotlights/Contributed Talks 1 
-|02:00 PM | Invited Speaker Talk - Jack Gallant 
-|03:00 PM | Coffee/Lunch Break
-|04:00 PM | Invited Speaker Talk - Anima Anandkumar
-|05:00 PM | Invited Speaker Talk - Alona Fyshe
-|06:00 PM | Spotlights/Contributed Talks 1
-|07:00 PM | Invited Speaker Talk - Kenji Doya
-|08:15 PM | Closing Remarks
+| Time (EST) | Location | Event | 
+|:------ |:------ |:-----
+|09:30 AM | Zoom | Opening Remarks
+|10:00 AM | Zoom | Invited Speaker Talk - Mike Davies
+|11:00 AM | Zoom | Panel Discussion
+|12:30 AM |  | Coffee/Lunch Break 
+|01:00 PM | Gather Town | Spotlights/Contributed Talks 1 
+|02:00 PM | Zoom | Invited Speaker Talk - Jack Gallant
+|03:00 PM |  | Coffee/Lunch Break
+|04:00 PM | Zoom | Invited Speaker Talk - Anima Anandkumar
+|05:00 PM | Zoom | Invited Speaker Talk - Alona Fyshe 
+|06:00 PM | Gather Town | Spotlights/Contributed Talks 1 
+|07:00 PM | Zoom | Invited Speaker Talk - Kenji Doya 
+|08:15 PM | Zoom | Closing Remarks 
 |---
 
 
