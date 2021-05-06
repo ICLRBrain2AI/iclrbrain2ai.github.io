@@ -7,7 +7,9 @@ hero_image: img/vienna.jpg
 
 ## How Can Findings About The Brain Improve AI Systems?
 [ICLR 2021](https://iclr.cc/Conferences/2021/) Workshop, Taking place virtually
-##### ~~May 8, 2021~~ May 7, 2021
+##### May 7, 2021 ~~May 8, 2021~~ 
+
+## [View the workshop](https://iclr.cc/virtual/2021/workshop/2135)
 
 {% comment %} 
 ## Google Group
@@ -44,14 +46,14 @@ Date: ~~Saturday May 8, 2021~~ Friday May 7, 2021
 Taking place virtually, Times given are Eastern Standard Time
 
 |---
-| Time | Event
+| Time (EST) | Event
 |:------ |:------
-|09:30 AM | Opening Remarks
-|10:00 AM | Invited Speaker Talk - Mike Davies
-|11:00 AM | Panel Discussion
-|12:30 AM | Coffee/Lunch Break
-|01:00 PM | Spotlights/Contributed Talks 1
-|02:00 PM | Invited Speaker Talk - Jack Gallant
+|09:30 AM | Opening Remarks 
+|10:00 AM | Invited Speaker Talk - Mike Davies 
+|11:00 AM | Panel Discussion 
+|12:30 AM | Coffee/Lunch Break 
+|01:00 PM | Spotlights/Contributed Talks 1 
+|02:00 PM | Invited Speaker Talk - Jack Gallant 
 |03:00 PM | Coffee/Lunch Break
 |04:00 PM | Invited Speaker Talk - Anima Anandkumar
 |05:00 PM | Invited Speaker Talk - Alona Fyshe
