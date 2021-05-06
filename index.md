@@ -122,7 +122,7 @@ The following papers were accepted to the workshop. Full papers will be released
 - Towards robust vision by multi-task learning on monkey visual cortex
 - Training cascaded networks for speeded decisions using a temporal-difference loss
 
-![Workshop Poster Session GatherTown Layout](gathertown.png)
+![Workshop Poster Session GatherTown Layout](img/gathertown.png)
 
 ## Program Committee
 
