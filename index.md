@@ -104,6 +104,7 @@ The following papers were accepted to the workshop. Full papers will be released
 | 1 | 1PM - 2PM | Brain-inspired Weighted Normalization for CNN Image Classification
 | 2 | 1PM - 2PM | Neuroscience-inspired perception-action in robotics: applying active inference for state estimation, control and self-perception
 | 3 | 1PM - 2PM | A learning gap between neuroscience and reinforcement learning
+| 4 | 1PM - 2PM | ~~Shared Neural Representation-inspired Empathetic Response Generation~~
 | 5 | 1PM - 2PM | Improved object recognition using neural networks trained to mimic the brain’s statistical properties
 | 6 | 1PM - 2PM | Learning-dependent enhancement of persistent activity in neocortex
 | 7 | 1PM - 2PM | The neuroscience of spatial navigation and the relationship to artificial intelligence
