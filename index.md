@@ -143,8 +143,10 @@ Accepted papers will be presented in a virtual poster session at our workshop's 
 * Sharmishta Jat
 * Niru Maheswaranthan
 * David Gonzalez-Aguirre
-* Javier Felip
+* Javier Felip-Leon
 * Daniel Ben-Dayan Rubin
+* Paxon Frady
+* Andreas Wild
 * and all Organizing Committee Members
 
 ## References
