@@ -121,6 +121,7 @@ The following papers were accepted to the workshop. Full papers will be released
 | 19 | 6PM - 7PM | Learning to Predict in Networks with Heterogeneous and Dynamic Synapses
 | 20 | 6PM - 7PM | Simulating a Primary Visual Cortex at the Front of CNNs Improves Robustness to Image Perturbations 
 | 21 | 6PM - 7PM | Cloze Distillation: Improving Neural Language Models with Human Next-Word Predictions
+| 22 | 6PM - 7PM | Learning without gradient decent encoded by the dynamics of a neurobiological model
 | 23 | 6PM - 7PM | Comparing Neural Mechanisms for Shifting Attention in Space and Social Knowledge
 |---
 
