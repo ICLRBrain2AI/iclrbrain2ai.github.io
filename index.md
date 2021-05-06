@@ -72,30 +72,6 @@ Taking place virtually, Times given are Eastern Standard Time
 
 
 
-## Call for Papers
-
-Submit at: [https://cmt3.research.microsoft.com/BRAIN2AI2021/Submission/Index](https://cmt3.research.microsoft.com/BRAIN2AI2021/Submission/Index)
-
-We will consider the following (non-exhaustive) list of topics for contribution:
-- Data-driven integration of neuroscientific data into the training of AI systems
-- Brain-inspired inductive biases for AI systems
-- Neuroscientific data as an evaluation metric for AI systems
-- Mechanistic insight into cognitive functions (vision, language, decision making, attention, etc.)
-- Limitations of current AI systems in tasks at which humans excel (compositionality, commonsense reasoning, continual learning, few-shot learning, causality, etc.)
-- Cross-modality and cross-species comparisons of neuroscientific data with respect to benefits to AI
-- Datasets that can facilitate the transfer of neuroscientific insight to AI
-
-**Formatting Instructions:**  All submissions must be in PDF format. Submissions are limited to four content pages, including all figures and tables; additional pages containing only references are allowed. You must format your submission using the [ICLR 2021 LaTeX style files](https://github.com/ICLR/Master-Template/raw/master/archive/iclr2021.zip). Submissions that meaningfully violate the ICLR style (e.g., by decreasing margins or font sizes) or page limits may be rejected without further review. All submissions should be anonymous.
-
-The accepted papers will be made publicly available as non-archival reports, allowing future submissions to archival conferences or journals.
-
-The review process is double-blind. We also welcome published papers that are within the scope of the workshop (without re-formatting). Already-published papers do not have to be anonymous. They are eligible for the spotlight sessions and will only have a very light review process. Note that preprints that have not yet been accepted for publication at a peer-reviewed venue are not considered as published work and need to be reformatted according to our instructions. 
-
-**Virtual Format:** The workshop itself will be geared towards more dynamic and interactive discussion focused on Q&A sessions, with less time devoted to speakers giving one-sided talks to attendees. Invited speakers will give live talks but will be asked to devote as much time to audience questions as to the presentation. Accepted abstracts and papers will result in, at minimum, a spotlight talk. Contributed spotlight talks will be pre-recorded to ensure that time traditionally allotted to posters will be used to foster discussion and participant questions from the contributed talks. 
-
-All presenters, whether invited or contributed, will be given live virtual "coffee break" rooms during all breaks in the conference schedule to engage in small group discussions with participants. Discussions around talks will be organized in live virtual "breakout" rooms with similar topic and themes so that workshop attendees and presenters can get the chance to interact with each other in a less formal, discussion-centric setting. We intend to encourage spotlight talk applicants to fully leverage the didactic benefits of the digital medium by including elements of animation or interactivity into their presentations. The themes for the breakout rooms will be changed for each break to give speakers, panelists and participants a chance to focus on different aspects of their work and to interact with different groups.
-
-Please redirect questions and all future correspondence to [brain2ai.2021@gmail.com](mailto:brain2ai.2021@gmail.com).
 
 ## Accepted Papers
 The following papers were accepted to the workshop. Full papers will be released during the workshop and one month later to nonregistered parties. 
@@ -129,6 +105,30 @@ The following papers were accepted to the workshop. Full papers will be released
 |---
 
 
+## Call for Papers
+
+Submit at: [https://cmt3.research.microsoft.com/BRAIN2AI2021/Submission/Index](https://cmt3.research.microsoft.com/BRAIN2AI2021/Submission/Index)
+
+We will consider the following (non-exhaustive) list of topics for contribution:
+- Data-driven integration of neuroscientific data into the training of AI systems
+- Brain-inspired inductive biases for AI systems
+- Neuroscientific data as an evaluation metric for AI systems
+- Mechanistic insight into cognitive functions (vision, language, decision making, attention, etc.)
+- Limitations of current AI systems in tasks at which humans excel (compositionality, commonsense reasoning, continual learning, few-shot learning, causality, etc.)
+- Cross-modality and cross-species comparisons of neuroscientific data with respect to benefits to AI
+- Datasets that can facilitate the transfer of neuroscientific insight to AI
+
+**Formatting Instructions:**  All submissions must be in PDF format. Submissions are limited to four content pages, including all figures and tables; additional pages containing only references are allowed. You must format your submission using the [ICLR 2021 LaTeX style files](https://github.com/ICLR/Master-Template/raw/master/archive/iclr2021.zip). Submissions that meaningfully violate the ICLR style (e.g., by decreasing margins or font sizes) or page limits may be rejected without further review. All submissions should be anonymous.
+
+The accepted papers will be made publicly available as non-archival reports, allowing future submissions to archival conferences or journals.
+
+The review process is double-blind. We also welcome published papers that are within the scope of the workshop (without re-formatting). Already-published papers do not have to be anonymous. They are eligible for the spotlight sessions and will only have a very light review process. Note that preprints that have not yet been accepted for publication at a peer-reviewed venue are not considered as published work and need to be reformatted according to our instructions. 
+
+**Virtual Format:** The workshop itself will be geared towards more dynamic and interactive discussion focused on Q&A sessions, with less time devoted to speakers giving one-sided talks to attendees. Invited speakers will give live talks but will be asked to devote as much time to audience questions as to the presentation. Accepted abstracts and papers will result in, at minimum, a spotlight talk. Contributed spotlight talks will be pre-recorded to ensure that time traditionally allotted to posters will be used to foster discussion and participant questions from the contributed talks. 
+
+All presenters, whether invited or contributed, will be given live virtual "coffee break" rooms during all breaks in the conference schedule to engage in small group discussions with participants. Discussions around talks will be organized in live virtual "breakout" rooms with similar topic and themes so that workshop attendees and presenters can get the chance to interact with each other in a less formal, discussion-centric setting. We intend to encourage spotlight talk applicants to fully leverage the didactic benefits of the digital medium by including elements of animation or interactivity into their presentations. The themes for the breakout rooms will be changed for each break to give speakers, panelists and participants a chance to focus on different aspects of their work and to interact with different groups.
+
+Please redirect questions and all future correspondence to [brain2ai.2021@gmail.com](mailto:brain2ai.2021@gmail.com).
 
 ## Workshop Poster Session GatherTown Layout
 
