@@ -96,33 +96,36 @@ All presenters, whether invited or contributed, will be given live virtual "coff
 Please redirect questions and all future correspondence to [brain2ai.2021@gmail.com](mailto:brain2ai.2021@gmail.com).
 
 ## Accepted Papers
-
 The following papers were accepted to the workshop. Full papers will be released during the workshop and one month later to nonregistered parties. 
 
-- A learning gap between neuroscience and reinforcement learning
-- Brain-inspired Weighted Normalization for CNN Image Classification
-- Cloze Distillation: Improving Neural Language Models with Human Next-Word Predictions
-- Comparing Neural Mechanisms for Shifting Attention in Space and Social Knowledge
-- Comparing visual reasoning in humans and AI
-- Contextual integration in cortical and convolutional neural networks
-- Cortical network responses map onto data‑driven features that capture visual semantics of movie fragments
-- Cross-modal emotion recognition: How similar are patterns between DNNs and human fMRI data?
-- Gaze Perception in Humans and CNN-based Model
-- Improved object recognition using neural networks trained to mimic the brain’s statistical properties
-- Information theoretic characterization of uncertainty distinguishes surprise from accuracy signals in the brain
-- Joint interpretation about neural representations in neural networks and the brain
-- Learning to Predict in Networks with Heterogeneous and Dynamic Synapses
-- Learning-dependent enhancement of persistent activity in neocortex
-- Neuroscience-inspired perception-action in robotics: applying active inference for state estimation, control and self-perception
-- Probing artificial neural networks: Insights from neuroscience
-{% comment %} 
-- Shared Neural Representation-inspired Empathetic Response Generation
-{% endcomment %} 
-- Simulating a Primary Visual Cortex at the Front of CNNs Improves Robustness to Image Perturbations 
-- The neuroscience of spatial navigation and the relationship to artificial intelligence
-- Towards naturalistic speech decoding from brain data
-- Towards robust vision by multi-task learning on monkey visual cortex
-- Training cascaded networks for speeded decisions using a temporal-difference loss
+|---
+| Poster # | GatherTown Time Slot (EST) | Title
+|:---- |:------- |:------
+| 1 | 1PM - 2PM | Brain-inspired Weighted Normalization for CNN Image Classification
+| 2 | 1PM - 2PM | Neuroscience-inspired perception-action in robotics: applying active inference for state estimation, control and self-perception
+| 3 | 1PM - 2PM | A learning gap between neuroscience and reinforcement learning
+| 5 | 1PM - 2PM | Improved object recognition using neural networks trained to mimic the brain’s statistical properties
+| 6 | 1PM - 2PM | Learning-dependent enhancement of persistent activity in neocortex
+| 7 | 1PM - 2PM | The neuroscience of spatial navigation and the relationship to artificial intelligence
+| 8 | 1PM - 2PM | Towards robust vision by multi-task learning on monkey visual cortex
+| 9 | 1PM - 2PM | Cortical network responses map onto data‑driven features that capture visual semantics of movie fragments
+| 10 | 1PM - 2PM | Towards naturalistic speech decoding from brain data
+| 11 | 1PM - 2PM | Contextual integration in cortical and convolutional neural networks
+| 12 | 1PM - 2PM | Joint interpretation of representations in neural networks and the brain
+| 13 | 6PM - 7PM | Training cascaded networks for speeded decisions using a temporal-difference loss
+| 14 | 6PM - 7PM | Probing artificial neural networks: Insights from neuroscience
+| 15 | 6PM - 7PM | Information theoretic characterization of uncertainty distinguishes surprise from accuracy signals in the brain
+| 16 | 6PM - 7PM | Gaze Perception in Humans and CNN-based Model
+| 17 | 6PM - 7PM | Comparing visual reasoning in humans and AI
+| 18 | 6PM - 7PM | Cross-modal emotion recognition: How similar are patterns between DNNs and human fMRI data?
+| 19 | 6PM - 7PM | Learning to Predict in Networks with Heterogeneous and Dynamic Synapses
+| 20 | 6PM - 7PM | Simulating a Primary Visual Cortex at the Front of CNNs Improves Robustness to Image Perturbations 
+| 21 | 6PM - 7PM | Cloze Distillation: Improving Neural Language Models with Human Next-Word Predictions
+| 22 | 6PM - 7PM | Learning without gradient decent encoded by the dynamics of a neurobiological model
+| 23 | 6PM - 7PM | Comparing Neural Mechanisms for Shifting Attention in Space and Social Knowledge
+|---
+
+
 
 ## Workshop Poster Session GatherTown Layout
 
